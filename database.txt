@@ -1,7 +1,24 @@
-//gestione iscritti al torneo (iscritti)
+//gestione database torneo
+
+
+DB)iscritti
 
 ID 
 numero
 nome/cognome
 peso
 categoria
+---------------------------------------------------
+DB)incontri vincenti
+
+ID
+numero
+nome/cognome
+vinte
+---------------------------------------------------
+DB)incontri perdenti
+
+ID
+numero
+nome/cognome
+perse
