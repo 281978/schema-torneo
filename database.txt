@@ -22,3 +22,9 @@ ID
 numero
 nome/cognome
 perse
+DB)eliminati
+
+ID
+numero
+nome/cognome
+eliminato  (1) valore univoco
